@@ -53,8 +53,8 @@ mkdir /home/vagrant/mi-dev
 cd /home/vagrant/mi-dev
 
 # Clone MobileInsight-core repo
-# git clone https://github.com/mobile-insight/mobileinsight-core.git
-git clone -b dev-6.0 https://github.com/mobile-insight/mobileinsight-core.git
+git clone -b ubuntu22-py310 https://github.com/mobile-insight/mobileinsight-core.git
+# git clone -b dev-6.0 https://github.com/mobile-insight/mobileinsight-core.git
 
 # Clone MobileInsight-mobile repo
 git clone -b test https://github.com/Sinclair19/mobileinsight-mobile
