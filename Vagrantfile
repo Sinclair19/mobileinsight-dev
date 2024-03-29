@@ -57,12 +57,13 @@ cd /home/vagrant/mi-dev
 git clone -b dev-6.0 https://github.com/mobile-insight/mobileinsight-core.git
 
 # Clone MobileInsight-mobile repo
-# git clone https://github.com/mobile-insight/mobileinsight-mobile.git
-git clone -b dev-6.0 https://github.com/mobile-insight/mobileinsight-mobile.git
+git clone -b test https://github.com/Sinclair19/mobileinsight-mobile
+# git clone -b dev-6.0 https://github.com/mobile-insight/mobileinsight-mobile.git
 
 # Clone python-for-android repo
+git clone -b test https://github.com/Sinclair19/Mobile-insight-python-for-android.git python-for-android
 # git clone https://github.com/mobile-insight/python-for-android.git
-git clone -b dev-6.0 https://github.com/mobile-insight/python-for-android.git
+# git clone -b dev-6.0 https://github.com/mobile-insight/python-for-android.git
 
 SCRIPT
 
