@@ -33,7 +33,7 @@ alias python=python3
 
 # easy_install pip
 pip3 install --upgrade pip
-pip3 install cython
+pip3 install cython==0.29.37
 pip3 install pyyaml
 pip3 install xmltodict
 pip3 install pyserial
